@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+body{
+    background-image:url(../image/background1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Supermercado One', cursive;
+}
+
+.container{
+    width: 500px;
+    margin: 180px auto;
+}
+.login-section{
+    background-color:rgb(199 167 29 / 47%);
+
+
+}
+.login-section img{    
+    width: 100px;
+    display: block;
+    margin: 0 auto;
+
+}
+.login-section h2{
+    padding: 10px;
+    text-align: center;
+    color: darkgoldenrod;
+    margin: 10px;
+
+}
+.form-control{
+    width: 95%;
+    height: 15px;
+    padding-left: 5px;
+    margin-bottom: 5px;
+
+}
+.submit-btn{
+    background: red;
+    color: aqua;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    margin: auto;
+    display: block;
+
+}
